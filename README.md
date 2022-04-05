@@ -2,6 +2,7 @@
 Small utils for encoding/decoding in Cairo
 
 THIS FUNCTION COMPUTES THE MOST SIGNIFICANT BIT OF ANY FELT
+
 The number of steps stays around 250.
 
 Revision: 0.1 - 2022-04-05
